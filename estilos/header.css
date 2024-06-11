@@ -4,6 +4,10 @@ color: grey;
 }
 
 .cabecalho-menu-hamburguer {
-
-    
+height: 56px;
+width: 33px;
+display: inline-block;
+background-repeat: no-repeat;
+background-position: center;
+background-image: url("../img/dowload-removebg-preview.png");
 }
