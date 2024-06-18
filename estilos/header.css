@@ -25,6 +25,6 @@ background-image: url("../img/menu-56-removebg-preview\ 1.png");
 .lista-menu{
     display: none;
 }
-.container--botao:checked - .lista-menu{
+.container--botao:checked-.lista-menu{
     display: block;
 }
