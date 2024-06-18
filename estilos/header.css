@@ -17,5 +17,14 @@ background-image: url("../img/menu-56-removebg-preview\ 1.png");
 .cabecalho--img{
     width: 32px;
     height: 56px;
-
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.lista-menu{
+    display: none;
+}]
+.container--botao:checked - .lista-menu{
+    display: block;
 }
