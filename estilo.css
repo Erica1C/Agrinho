@@ -11,3 +11,8 @@
 body{
     background-color: var(--cor-de-fundo);
 }
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
