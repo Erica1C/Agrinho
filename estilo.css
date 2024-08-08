@@ -23,14 +23,14 @@ body{
 }
 .texto1{
     text-align: center;
-    color: rgb(88, 87, 87);
+    color: rgb(138, 138, 138);
     margin-top: 5%;
     font-size: large;
 }
 .rodape{
     margin-top: 25px;
     background-color: #D3FFD2 ;
-    color: rgb(88, 87, 87);
+    color: rgb(138, 138, 138);
     height: 80px;
     text-align: center;
 }
