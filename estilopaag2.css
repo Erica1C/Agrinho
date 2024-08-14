@@ -33,4 +33,9 @@ body{
     .container--botao:checked-.lista-menu{
         display: block;
     }
+    .conteudo-titulo{
+        text-align: right;
+        font-size: 50px;
+
+    }
     
