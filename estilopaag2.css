@@ -34,8 +34,12 @@ body{
         display: block;
     }
     .conteudo-titulo{
-        text-align:initial;
+        text-align:right;
         font-size: 18px;
 
     }
-    
+    .banner{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
