@@ -34,7 +34,7 @@ body{
         display: block;
     }
     .conteudo-titulo{
-        text-align: right;
+        text-align: start;
         font-size: 10px;
 
     }
