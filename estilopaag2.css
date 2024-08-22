@@ -43,3 +43,8 @@ body{
         align-items: center;
         justify-content: center;
     }
+    .texto1pg2{
+        text-align: right;
+        color: grey;
+        font-size: large;
+    }
