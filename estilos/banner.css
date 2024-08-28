@@ -4,3 +4,14 @@
     margin: 10px;
     width: 80%;   
 }
+
+
+@media (min-width:1024px){
+    .banner-img{
+        width: 800px;
+}
+
+
+
+
+}
