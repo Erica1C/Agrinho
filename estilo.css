@@ -33,3 +33,11 @@ body{
     height: 80px;
     text-align: center;
 }
+
+@media (min-width:1024x){
+
+.subtítulo{
+    font-size: 100px;
+}
+
+}
